@@ -3,7 +3,8 @@ import styled from "styled-components"
 export const HeaderS=styled.div`
     background-color:blue;
     width:100vw;
-    height:60px;  
+    height:auto;  
+    background-color:black;
 `;
 
 export const SubHeaderS=styled.div`
@@ -68,6 +69,7 @@ export const MainHeaderS=styled.div`
     width:100%;
     height:140px;  
     position:relative;
+    background-color:white;
 `;
 
 export const Logo=styled.img`

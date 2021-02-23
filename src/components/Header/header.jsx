@@ -7,11 +7,8 @@ function Header(){
     return(
         <HeaderS>
             <SubHeader>
-
             </SubHeader>
-            
             <MainHeader>
-
             </MainHeader>
         </HeaderS>
     )

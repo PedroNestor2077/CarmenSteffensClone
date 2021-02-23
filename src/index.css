@@ -2,3 +2,14 @@
   margin:0px;
   padding:0px;
 }
+body{
+  height:auto;
+}
+#root{
+  height:auto;
+  min-height:100vh;
+}
+.App{
+  height:auto;
+  min-height:100vh;
+}
